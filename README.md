@@ -1,4 +1,4 @@
-# CovidVaccinationPortal
+# Covid-Vaccination-Portal
 "Vaccine Registration Portal by DASHY" is a platform for the citizens of India to register
 themselves for COVID-19 vaccination and schedule their vaccination at the nearest vaccination
 centers. As India is a big country with a huge population of 1.39billion, it is not possible to go door
